@@ -1,0 +1,23 @@
+{
+    "name": "devsangamam",
+    "short_name": "devsangamam",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "DevSangamam is a conference,catering to the Developer community of Tamil Nadu & India.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/dev.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/dev.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
